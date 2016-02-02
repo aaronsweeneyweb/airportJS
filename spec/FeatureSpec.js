@@ -1,4 +1,6 @@
 describe('Feature Test:', function() {
+  'use strict';
+  
   var plane;
   var airport;
 
